@@ -1,6 +1,7 @@
 # Sileo 2 - The Ultimate Package Manager for iOS
 
-![Sileo 2 Logo](https://example.com/logo.png) <!-- Replace with actual logo URL -->
+![download (1)](https://github.com/user-attachments/assets/791b79e3-24a3-438e-bf12-bbbededc15d5)
+
 
 ## About Sileo 2
 Sileo 2 is the next evolution of package management for jailbroken iOS devices. Engineered for efficiency and user-friendliness, Sileo 2 is here to redefine how you install and manage tweaks, themes, and more.
