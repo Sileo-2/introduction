@@ -1,10 +1,15 @@
-# Sileo 2 - The Ultimate Package Manager for iOS
+<div align="center">
+ <h1>Sileo 2 - The Ultimate Package Manager for iOS </h1>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/791b79e3-24a3-438e-bf12-bbbededc15d5" alt="Sileo 2 Logo" width="150">
+</div>
 
-![download (1)](https://github.com/user-attachments/assets/791b79e3-24a3-438e-bf12-bbbededc15d5)
+
 
 
 ## About Sileo 2
-Sileo 2 is the next evolution of package management for jailbroken iOS devices. Engineered for efficiency and user-friendliness, Sileo 2 is here to redefine how you install and manage tweaks, themes, and more.
+Sileo 2 is a fast, user-friendly package manager compatible with the latest iOS versions, including iOS 18 to iOS 18.2, and supports iPhone 15 and iPhone 16. It also works as a non-jailbreak third-party app manager, making it versatile for all users.
 
 ---
 
@@ -19,15 +24,76 @@ Sileo 2 is the next evolution of package management for jailbroken iOS devices. 
 ### 🚀 **Getting Started**
 
 #### 1. **Install Sileo 2**
-   - Compatible with iOS **versions [your versions]**.
-   - Download from our [official website](https://example.com).
+   - Compatible with iOS **versions [ iOS 18.0, iOS 18.0.1, iOS 18.1, iOS 18.1.1, iOS 18.2 ]**
+   - Download from our Official website (Sileo2.com)
 
-#### 2. **Contribute**
-   - Fork this repository.
-   - Report bugs or suggest features via [issues](https://github.com/your-repo/issues).
+<br><br>
 
-#### 3. **Build from Source**
-   ```bash
-   git clone https://github.com/your-username/sileo2.git
-   cd sileo2
-   make build
+# 🌟 **Sileo 2 Guide**
+
+
+### **Without Jailbreak (Non-Jailbreak Installation)**
+1. **Prepare Your Device:**
+   - Ensure your iOS version is 18–18.2 and compatible with third-party app installers.
+
+2. **Download Sileo 2 Installer:**
+   - Visit the [official Sileo 2 website](https://sileo2.com) on your iPhone or iPad.
+   - Locate the non-jailbreak installation option.
+
+
+
+### **With Jailbreak**
+1. **Ensure Your Device is Jailbroken:**
+   - Jailbreak your device using a compatible tool (e.g.Neko online , Palera1n online) for your iOS version.
+   - Ensure your iOS version is between iOS 18 and iOS 18.2.
+
+2. **Install Sileo 2:**
+   - Open your jailbreak tool’s interface and complete jailbreak process
+
+3. **Trust the App:**
+   - Go to **Settings > General > Profiles & Device Management**.
+   - Find the Sileo 2 profile and tap "Trust."
+
+---
+
+## **2. Usage Guide**
+
+### **For Non-Jailbroken Devices**
+1. **Explore Available Apps:**
+   - Open Sileo 2 and navigate through pre-approved tweaks and third-party apps.
+
+2. **Install Apps:**
+   - Tap on an app and select "Install."
+   - Follow on-screen instructions.
+
+3. **Manage Apps:**
+   - Use the "Installed" tab to view and update installed apps.
+
+     
+### **For Jailbroken Devices**
+1. **Launch Sileo 2:**
+   - Open the app from your home screen.
+
+2. **Add Repositories:**
+   - Tap the "Sources" tab and select "Add."
+   - Enter a repository and tap "Add Source."
+
+3. **Search for Packages:**
+   - Use the search bar to find tweaks, themes, or utilities.
+
+4. **Install Packages:**
+   - Select the desired package and tap "Install."
+   - Confirm and respring your device if prompted.
+
+---
+
+
+
+---
+
+### **Tips for Both Methods**
+- Keep your repositories updated for the latest packages.
+- Regularly check for Sileo 2 updates to ensure compatibility and new features.
+
+
+
