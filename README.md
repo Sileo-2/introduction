@@ -40,9 +40,13 @@ Sileo 2 is a fast, user-friendly package manager compatible with the latest iOS 
    - Visit the [official Sileo 2 website](https://sileo2.com) on your iPhone or iPad.
    - Locate the non-jailbreak installation option.
 ### **Without Jailbreak (Non-Jailbreak Installation Image Gudie)**
-<b>Step 01</b>
+<b> 📱 Step 01</b>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/e55e4601-0926-4e88-85f3-3056d7919a72" alt="Add a heading (1) (1) (1)" width='600'>
+</div>
+<b> 📱 Step 02</b>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/df87f2f5-48e1-4ff0-92ad-d68dad608007" alt="Add a heading (2)" width='550'>
 </div>
 
 
